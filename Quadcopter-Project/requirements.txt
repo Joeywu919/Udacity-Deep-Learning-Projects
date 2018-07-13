@@ -1,0 +1,17 @@
+matplotlib==2.0.0
+numpy==1.14.1
+pandas==0.19.2
+pyyaml
+jupyter
+gym
+catkin_pkg
+rospkg
+ipykernel
+pytorch
+torch
+torchvision
+tensorflow
+cython
+keras
+geometry_msgs
+nb_conda_kernels
